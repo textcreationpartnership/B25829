@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from a dissenter to the petitioning bishops</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25829</idno><idno type="EEBO-CITATION">31360639</idno>
+  <idno type="VID">205904</idno>
+  <idno type="EEBO-PROQUEST">2240899284</idno>
+  
+            <idno type="STC">Wing L1372bA</idno>
+            <idno type="OCLC">31360639</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205904)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1744:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from a dissenter to the petitioning bishops</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N.D.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained, and with print show-through.</note>
+                  <note>"With allowance, June 2d. 1688."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  England.</term>
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:205904:1"/>
+            <head>A LETTER From a DISSENTER To the Petitioning Bishops.</head>
+            <opener>
+               <salute>My Lords.</salute>
+            </opener>
+            <p>HAving seen a Paper that goes under the name of your <hi>Petition to His Majesty for not insisting upon his Order for Reading his most Gracious Declaration in your Publick Assemblies.</hi> I confess I was not a little startled at it, that Men so long, and so much professing Loyalty should appear so miserably defective in that point. I challenge you (after all your exclaiming against the poor Dissenters as Factious and Rebellious) to give an instance of their Disobeying their Prince's Command in any such matter, what they stuck at was purely for Conscience sake, which you have not to Plead in this thing; here was no assent nor consent requir'd, no interfering with any Law of God, but only a Publication of His Majesties most Pious design to set all his Subjects at liberty from that Bondage they so dolefully groan'd under. Now as <hi>Samuel</hi> Reasoned with <hi>Israel</hi> about their affairs then, pray my Lords give me leave to reason with you about this important affair now; you are Men of Worth and Learning, you are Professors of the Gospel of Peace and Love, and it might therefore be well expected from you, that you should have put the King upon it before he did it, and improv'd your great Interest in his Majesty on the behalf of the sore oppressed and horridly abused <hi>Dissen<g ref="char:EOLhyphen"/>ters;</hi> but alass <hi>altum silentium</hi> to say no more, what provoking and incensing the King there was against them you best know; However after Heaven had inspir'd his Majesty with this Glorious Project we expected your rejoycing at it, your thanking the King for it, and hearty closing with him in it. But who could imagine the murmering, the grumbling, the discontent this Great Act of Goodness and Grace has raised among you, especially the unmannerly (pardon the expression) refusing to make it known to the People, though the King so absolutely commanded it. Pray my Lords let me ask you a Question. Suppose the King instead of his Declaration had issued out a Proclamation commanding Justices of the Peace, Cunstables, Informers, and all other per<g ref="char:EOLhyphen"/>sons to be more rigorous (if possible) against Dissenters, and doe their utmost to the perfect quelling and distroying them, and had order'd this to be read in your Churches in the time of Divine Service, would you have made any scruple of that? Ah! no, Methinks I see your Chirping Parsons how brisk they look in the Desk with such a Paper in their hands as the second course
+<pb facs="tcp:205904:2"/>after the first mess of Prayers is over, being a Dish more dainty than the rest, and how the Paraphrase upon it would furnish them with matter all the day after without being beholden to the Bible for any other Text.</p>
+            <p>Good my Lords consider, what can we or the whole World think of you, who are so averse to Mercy, and so eager to any thing of Rigour. You inti<g ref="char:EOLhyphen"/>mate in your Paper that <hi>you want no tenderness to Dissenters,</hi> strange and won<g ref="char:EOLhyphen"/>derful News if true, but pray my Lords tell us the meaning of this expression in plain English, for it is more intricate to us than <hi>Sampson</hi>'s Riddle was to the <hi>Philistins;</hi> an Interpreter the other day undertook to expound it thus, <hi>that your Lordships want no tenderness to Dissenters, because you never judg'd tender<g ref="char:EOLhyphen"/>ness a thing fit for them;</hi> and it must be carried some such way, for to take it in the literal sense, 'tis a great untruth (which we cannot suppose your Lord<g ref="char:EOLhyphen"/>ships guilty of) to say <hi>you want no tenderness to Dissenters,</hi> when the whole Land knows you never shew'd any. How many scores of Prisons were fill'd with Dissenters not many Ages past and their Families suffering at home, nor did your Lordships out of your great Revenues ever send a Peny to relieve them, here would have been a notable proof of your <hi>tenderness,</hi> and to have been a Testimony against (or at least using endeavours to prevent) the horrible wrongs, oppressions, and abuses pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon them even to the ruining their Fa<g ref="char:EOLhyphen"/>milies. Something of this nature (my Lords) would have convinc'd this un<g ref="char:EOLhyphen"/>believing Generation of your <hi>Tenderness.</hi> But <hi>hujus contrarium miserimum est.</hi>
+            </p>
+            <p>My Lords, the design of this Letter is to offer you good and seasonable ad<g ref="char:EOLhyphen"/>vice, and pray be not angry with me for my good will, I am a person that has suffer'd much, very much by the fury of that Church you sit at helm to guide, and yet God is my witness, I desire not an hair of your head should fall to the ground, so far am I from revenge; and therefore pray <hi>my Lords</hi> for your own sake, for your Churches sake, for <hi>England</hi>'s sake, and if all this will not do, then for God's sake debate the matter well you are now in hand with, weigh every thing in a right ballance, and consider thoroughly whether flying in your Sovereign's Face, and disobeying his most just command be a cause will bear you out in suffering. My Lords I pity you, and am really concern'd for you, retract, retract before it be too late, ask God and the King Pardon for your opposing the best of works, and give us (who would fain have) some ground to believe you inclinable to heal, as you have been to destroy. I think you have it in your Liturgy, <hi>From Pride, vain Glory and Hypocrisie,</hi> &amp;c. A good Prayer, I pray God keep you all from it. My Lords, believe me if you can (I am sure you may) that I am</p>
+            <closer>
+               <signed>Your well-wishing Servant</signed>
+               <dateline>London, <date>June 1st. 1688.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="license">
+            <p>With Allowance,</p>
+            <closer>
+               <dateline>
+                  <date>June 2d. 1688.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>N.D.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
